@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pyautogui
+pywinauto
+psutil
+Pillow
+PyScreeze
+opencv-python-headless
+numpy
+rapidocr==3.10.0
+onnxruntime
+pydantic
+psycopg[binary]
+pyinstaller
+pywin32
